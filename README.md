@@ -2,7 +2,7 @@
 This app is created with React.js
 1. Run `npm install` to install the supporting libraries and modules.
 2. Run `npm run start` to start development.
-<br><hr><br>
+<br><br><hr><hr><hr><br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
